@@ -1,5 +1,10 @@
 ## Tappy Bird 1.0
 
+<div style="display: flex; justify-content: center; gap: 2rem">
+  <img src="./assets/preview/tappy_plane-1.png" alt="Tappy Bird" style="aspect-ratio: 9/16; width: 250px; object-fit: cover;">
+  <img src="./assets/preview/tappy_plane-2.png" alt="Tappy Bird" style="aspect-ratio: 9/16; width: 250px; object-fit: cover;">
+</div>
+
 ### Summary
 
 Tappy Plane is a Flappy Bird–style arcade game made in Godot with GDScript. I built tap-to-fly controls, parallax scrolling, lasers, scoring, high-score saving, and simple game states to practice 2D physics, collisions, UI, and replayable game loops. Built to explore feel, timing, polish, and flow.!,
