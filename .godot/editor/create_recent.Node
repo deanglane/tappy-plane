@@ -1,0 +1,15 @@
+ColorRect
+Timer
+Label
+TextureRect
+AudioStreamPlayer2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+MarginContainer
+PanelContainer
+CanvasLayer
+AudioStreamPlayer
+AnimationPlayer
+Node
+Marker2D

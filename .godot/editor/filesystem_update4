@@ -1,0 +1,12 @@
+res://scenes/Pipes/pipes.tscn
+res://assets/LG_red_64.tres
+res://assets/LG_red_72.tres
+res://assets/LG_red_24.tres
+res://scenes/Pipes/pipes.gd
+res://scenes/laser/laser.tscn
+res://scenes/game/game.tscn
+res://scenes/game-over-ui/game_over_ui.tscn
+res://scenes/Hud/hud.tscn
+res://scenes/scrollingBG/scrolling_bg.tscn
+res://singletons/game_manager.gd
+res://scenes/Hud/hud.gd
